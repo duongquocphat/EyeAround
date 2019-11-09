@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713707481030",
+    "firebase_url": "https://eye-around.firebaseio.com",
+    "project_id": "eye-around",
+    "storage_bucket": "eye-around.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713707481030:android:2d9e2c029e8f635092f4c7",
+        "android_client_info": {
+          "package_name": "com.shakutara.eyearound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713707481030-ndhh7r9j2thbvthbpp2lk68k57cmlu3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ta726cCRXWIU5zxSutL0x0eMOnFtTgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713707481030-ndhh7r9j2thbvthbpp2lk68k57cmlu3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
